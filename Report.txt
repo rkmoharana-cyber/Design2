@@ -1,0 +1,29 @@
+Name - Ratikrishna Moharana
+Email - mratikrishna@gmail.com
+
+• Task Title: Compelling Landing Page
+
+•Task Description:
+	- Design and implement a landing Page for an institute dynamically adjusts its layout and content based on the user's device screen size.
+•Steps Taken:
+	- Identified key elements to include on the team page, such as header,         about,campus and footer.
+	- Developed HTML, CSS, and JavaScript code to build the responsive landing 		page.
+	- Tested the page across various devices and screen sizes to ensure 			compatibility and responsiveness.
+
+•Challenges Faced:
+	- Dealing with browser compatibility issues, particularly with older 			versions of Internet Explorer.
+
+•Solutions Implemented:
+	- Create an HTML document to structure the content of the landing page.
+	- Apply CSS styling to enhance the appearance of the webpage.
+	- Implement responsive design principles to ensure the page adjusts 			gracefully to different screen sizes.
+
+•Learnings:
+	- The importance of prioritizing content and functionality for smaller 			screens to maintain usability and readability.
+	- The significance of performance optimization techniques, such as image 		compression and code minification, in creating responsive web experiences.
+	- The value of thorough testing across various devices and browsers to 		identify and address compatibility issues early in the development process.
+	- The benefits of using modern CSS features like flexbox and grid layout 		for building responsive and flexible page layouts.
+
+•Project Update:
+
+	- The responsive compelling landing page has been successfully designed 		and implemented, featuring a user-friendly interface that adapts seamlessly 	to different screen sizes and devices. 
